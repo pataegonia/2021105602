@@ -1,4 +1,4 @@
-for i in range(1,9):
-    print(i, "단")
+for u in range(1,9):
+    print(u, "단")
     for j in range(1,10):
-        print(i,"*", j, "=",i*j)
+        print(u,"*", j, "=",u*j)
